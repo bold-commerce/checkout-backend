@@ -1,0 +1,53 @@
+#promo {
+    display: none
+}
+
+.install-text {
+    font-size: 1.8rem;
+    line-height: 150%;
+    color: #333;
+    padding-top: 1rem;
+}
+
+.install-input-field {
+    display: block;
+    width: 100%;
+    border-color: #333;
+}
+.install-input-field::selection{
+    background: #e60045;
+}
+.eyebrow {
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+
+.install-btn {
+    border-width: 1px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #333;
+}
+.install-btn:hover {
+    background-color: #e60045;
+}
+.login-logo {
+    display: block;
+    height: 60px;
+    width: 60px
+}
+
+.install-logo {
+    display: block;
+    height: 60px;
+}
+
+.login-card {
+    margin-top: 60px;
+    margin-bottom: 60px !important
+}
+
+.nav-stub {
+    font-weight: 300
+}
