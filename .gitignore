@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+.env
+.env.testing
+/coverage
+/coverage.xml
+/cache/.php_cs.cache
+.phpunit.result.cache
+/.idea
+/.DS_Store
+/public/assets
